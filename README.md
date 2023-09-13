@@ -12,6 +12,8 @@ This repository contains various IK projects, each exploring different aspects a
 
 - **Segmented Arm Simulations:** Projects like the one in this repository, where you can interact with a simulated robotic arm and see how it adjusts its configuration to follow the mouse cursor.
 
+### Future projects
+
 - **3D Robotic Arm Simulations:** More advanced projects that involve 3D graphics and demonstrate IK in a three-dimensional space.
 
 ## How to Use the Projects
