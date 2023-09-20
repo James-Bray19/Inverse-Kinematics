@@ -15,6 +15,7 @@ Completed Projects:
 
 Future projects:
 - **3D Robotic Arm Simulations:** More advanced projects that involve 3D graphics and demonstrate IK in a three-dimensional space.
+- **Jacobian Inverse Method:** A different implementation of IK
 
 ## How to Use the Projects
 
